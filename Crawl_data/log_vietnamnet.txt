@@ -1,0 +1,408 @@
+Danh sách các page của chủ đề: ['https://vietnamnet.vn/suc-khoe', 'https://vietnamnet.vn/suc-khoe-page2', 'https://vietnamnet.vn/suc-khoe-page3', 'https://vietnamnet.vn/suc-khoe-page4', 'https://vietnamnet.vn/suc-khoe-page5', 'https://vietnamnet.vn/suc-khoe-page6', 'https://vietnamnet.vn/suc-khoe-page7', 'https://vietnamnet.vn/suc-khoe-page8', 'https://vietnamnet.vn/suc-khoe-page9', 'https://vietnamnet.vn/suc-khoe-page10']
+Đang crawler trang https://vietnamnet.vn/suc-khoe-page9 của suc-khoe
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 25
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/suc-khoe-page4 của suc-khoe
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 50
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/suc-khoe-page6 của suc-khoe
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 75
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/suc-khoe-page7 của suc-khoe
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 100
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/suc-khoe-page5 của suc-khoe
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 125
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/suc-khoe-page8 của suc-khoe
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 150
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/suc-khoe-page3 của suc-khoe
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 175
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/suc-khoe-page2 của suc-khoe
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 200
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/suc-khoe của suc-khoe
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 225
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/suc-khoe-page10 của suc-khoe
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 250
+----------------------------------------------------------------------------------------------------------
+Danh sách các page của chủ đề: ['https://vietnamnet.vn/giao-duc', 'https://vietnamnet.vn/giao-duc-page2', 'https://vietnamnet.vn/giao-duc-page3', 'https://vietnamnet.vn/giao-duc-page4', 'https://vietnamnet.vn/giao-duc-page5', 'https://vietnamnet.vn/giao-duc-page6', 'https://vietnamnet.vn/giao-duc-page7', 'https://vietnamnet.vn/giao-duc-page8', 'https://vietnamnet.vn/giao-duc-page9', 'https://vietnamnet.vn/giao-duc-page10']
+Đang crawler trang https://vietnamnet.vn/giao-duc của giao-duc
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 25
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/giao-duc-page10 của giao-duc
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 50
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/giao-duc-page2 của giao-duc
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 75
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/giao-duc-page8 của giao-duc
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 100
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/giao-duc-page4 của giao-duc
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 125
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/giao-duc-page5 của giao-duc
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 150
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/giao-duc-page3 của giao-duc
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 175
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/giao-duc-page6 của giao-duc
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 200
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/giao-duc-page9 của giao-duc
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 225
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/giao-duc-page7 của giao-duc
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 250
+----------------------------------------------------------------------------------------------------------
+Danh sách các page của chủ đề: ['https://vietnamnet.vn/thong-tin-truyen-thong/cong-nghe', 'https://vietnamnet.vn/thong-tin-truyen-thong/cong-nghe-page2', 'https://vietnamnet.vn/thong-tin-truyen-thong/cong-nghe-page3', 'https://vietnamnet.vn/thong-tin-truyen-thong/cong-nghe-page4', 'https://vietnamnet.vn/thong-tin-truyen-thong/cong-nghe-page5', 'https://vietnamnet.vn/thong-tin-truyen-thong/cong-nghe-page6', 'https://vietnamnet.vn/thong-tin-truyen-thong/cong-nghe-page7', 'https://vietnamnet.vn/thong-tin-truyen-thong/cong-nghe-page8', 'https://vietnamnet.vn/thong-tin-truyen-thong/cong-nghe-page9', 'https://vietnamnet.vn/thong-tin-truyen-thong/cong-nghe-page10']
+Đang crawler trang https://vietnamnet.vn/thong-tin-truyen-thong/cong-nghe-page4 của thong-tin-truyen-thong/cong-nghe
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 25
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/thong-tin-truyen-thong/cong-nghe-page10 của thong-tin-truyen-thong/cong-nghe
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 50
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/thong-tin-truyen-thong/cong-nghe-page5 của thong-tin-truyen-thong/cong-nghe
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 75
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/thong-tin-truyen-thong/cong-nghe-page8 của thong-tin-truyen-thong/cong-nghe
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 100
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/thong-tin-truyen-thong/cong-nghe-page9 của thong-tin-truyen-thong/cong-nghe
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 125
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/thong-tin-truyen-thong/cong-nghe-page2 của thong-tin-truyen-thong/cong-nghe
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 150
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/thong-tin-truyen-thong/cong-nghe-page7 của thong-tin-truyen-thong/cong-nghe
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 175
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/thong-tin-truyen-thong/cong-nghe-page6 của thong-tin-truyen-thong/cong-nghe
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 200
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/thong-tin-truyen-thong/cong-nghe-page3 của thong-tin-truyen-thong/cong-nghe
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 225
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/thong-tin-truyen-thong/cong-nghe của thong-tin-truyen-thong/cong-nghe
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 250
+----------------------------------------------------------------------------------------------------------
+Danh sách các page của chủ đề: ['https://vietnamnet.vn/giai-tri', 'https://vietnamnet.vn/giai-tri-page2', 'https://vietnamnet.vn/giai-tri-page3', 'https://vietnamnet.vn/giai-tri-page4', 'https://vietnamnet.vn/giai-tri-page5', 'https://vietnamnet.vn/giai-tri-page6', 'https://vietnamnet.vn/giai-tri-page7', 'https://vietnamnet.vn/giai-tri-page8', 'https://vietnamnet.vn/giai-tri-page9', 'https://vietnamnet.vn/giai-tri-page10']
+Đang crawler trang https://vietnamnet.vn/giai-tri của giai-tri
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 25
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/giai-tri-page6 của giai-tri
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 50
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/giai-tri-page5 của giai-tri
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 75
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/giai-tri-page9 của giai-tri
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 100
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/giai-tri-page10 của giai-tri
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 125
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/giai-tri-page8 của giai-tri
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 150
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/giai-tri-page7 của giai-tri
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 175
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/giai-tri-page2 của giai-tri
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 200
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/giai-tri-page3 của giai-tri
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 225
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/giai-tri-page4 của giai-tri
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 250
+----------------------------------------------------------------------------------------------------------
+Danh sách các page của chủ đề: ['https://vietnamnet.vn/the-thao', 'https://vietnamnet.vn/the-thao-page2', 'https://vietnamnet.vn/the-thao-page3', 'https://vietnamnet.vn/the-thao-page4', 'https://vietnamnet.vn/the-thao-page5', 'https://vietnamnet.vn/the-thao-page6', 'https://vietnamnet.vn/the-thao-page7', 'https://vietnamnet.vn/the-thao-page8', 'https://vietnamnet.vn/the-thao-page9', 'https://vietnamnet.vn/the-thao-page10']
+Đang crawler trang https://vietnamnet.vn/the-thao-page7 của the-thao
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 25
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/the-thao-page4 của the-thao
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 50
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/the-thao-page5 của the-thao
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 75
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/the-thao của the-thao
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 100
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/the-thao-page8 của the-thao
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 125
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/the-thao-page9 của the-thao
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 150
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/the-thao-page2 của the-thao
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 175
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/the-thao-page10 của the-thao
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 200
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/the-thao-page6 của the-thao
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 225
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/the-thao-page3 của the-thao
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 250
+----------------------------------------------------------------------------------------------------------
+Danh sách các page của chủ đề: ['https://vietnamnet.vn/doi-song', 'https://vietnamnet.vn/doi-song-page2', 'https://vietnamnet.vn/doi-song-page3', 'https://vietnamnet.vn/doi-song-page4', 'https://vietnamnet.vn/doi-song-page5', 'https://vietnamnet.vn/doi-song-page6', 'https://vietnamnet.vn/doi-song-page7', 'https://vietnamnet.vn/doi-song-page8', 'https://vietnamnet.vn/doi-song-page9', 'https://vietnamnet.vn/doi-song-page10']
+Đang crawler trang https://vietnamnet.vn/doi-song-page2 của doi-song
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 25
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/doi-song-page4 của doi-song
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 50
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/doi-song-page9 của doi-song
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 75
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/doi-song của doi-song
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 100
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/doi-song-page7 của doi-song
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 125
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/doi-song-page5 của doi-song
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 150
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/doi-song-page10 của doi-song
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 175
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/doi-song-page8 của doi-song
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 200
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/doi-song-page6 của doi-song
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 225
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/doi-song-page3 của doi-song
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 250
+----------------------------------------------------------------------------------------------------------
+Danh sách các page của chủ đề: ['https://vietnamnet.vn/du-lich', 'https://vietnamnet.vn/du-lich-page2', 'https://vietnamnet.vn/du-lich-page3', 'https://vietnamnet.vn/du-lich-page4', 'https://vietnamnet.vn/du-lich-page5', 'https://vietnamnet.vn/du-lich-page6', 'https://vietnamnet.vn/du-lich-page7', 'https://vietnamnet.vn/du-lich-page8', 'https://vietnamnet.vn/du-lich-page9', 'https://vietnamnet.vn/du-lich-page10']
+Đang crawler trang https://vietnamnet.vn/du-lich-page8 của du-lich
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 25
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/du-lich-page6 của du-lich
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 50
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/du-lich-page10 của du-lich
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 75
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/du-lich-page3 của du-lich
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 100
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/du-lich-page9 của du-lich
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 125
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/du-lich-page5 của du-lich
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 150
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/du-lich-page2 của du-lich
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 175
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/du-lich của du-lich
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 200
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/du-lich-page7 của du-lich
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 225
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/du-lich-page4 của du-lich
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 250
+----------------------------------------------------------------------------------------------------------
+Danh sách các page của chủ đề: ['https://vietnamnet.vn/thoi-su', 'https://vietnamnet.vn/thoi-su-page2', 'https://vietnamnet.vn/thoi-su-page3', 'https://vietnamnet.vn/thoi-su-page4', 'https://vietnamnet.vn/thoi-su-page5', 'https://vietnamnet.vn/thoi-su-page6', 'https://vietnamnet.vn/thoi-su-page7', 'https://vietnamnet.vn/thoi-su-page8', 'https://vietnamnet.vn/thoi-su-page9', 'https://vietnamnet.vn/thoi-su-page10']
+Đang crawler trang https://vietnamnet.vn/thoi-su-page4 của thoi-su
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 25
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/thoi-su-page9 của thoi-su
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 50
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/thoi-su-page7 của thoi-su
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 75
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/thoi-su-page8 của thoi-su
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 100
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/thoi-su-page6 của thoi-su
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 125
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/thoi-su-page10 của thoi-su
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 150
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/thoi-su-page5 của thoi-su
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 175
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/thoi-su-page3 của thoi-su
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 200
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/thoi-su của thoi-su
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 225
+----------------------------------------------------------------------------------------------------------
+Đang crawler trang https://vietnamnet.vn/thoi-su-page2 của thoi-su
+----------------------------------------------------------------------------------------------------------
+Số bài viết của chuyên mục: 25
+Tổng số bài viết số bài viết hiện tại: 250
+----------------------------------------------------------------------------------------------------------
